@@ -1,0 +1,26 @@
+Bike sales dashboard in Excel. 
+
+## Project overview
+This project focuses on building an interactive dashboard in excel as part on my learning in data analytics and visualisation.
+This dashboard helps analyse customer demograpics and purchasing behaviour to uncover trends that influence bike sales.
+
+## Tools and Technologies
+- excel
+- pivot tables
+- slicers
+- charts
+- data cleaning
+- dashboard design
+
+## learning goals
+- data cleaning
+- visualisation 
+- learn how to use/create pivot tables 
+- create interactive dashboards
+- develop insights 
+- analyse real-world data
+
+## key findings
+- middle-aged have a higher purchase count
+- high income earners have a high rate of purchase, more specifically males
+- shorter the commute more likely the customer owns a bike
